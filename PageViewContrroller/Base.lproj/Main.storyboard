@@ -43,7 +43,7 @@
         <!--Page View Controller-->
         <scene sceneID="sgp-1l-wSn">
             <objects>
-                <pageViewController storyboardIdentifier="PageViewController" autoresizesArchivedViewToFullSize="NO" transitionStyle="pageCurl" navigationOrientation="horizontal" spineLocation="min" id="7cu-XX-nn4" customClass="PageViewController" customModule="PageViewContrroller" customModuleProvider="target" sceneMemberID="viewController"/>
+                <pageViewController storyboardIdentifier="PageViewController" autoresizesArchivedViewToFullSize="NO" transitionStyle="scroll" navigationOrientation="horizontal" spineLocation="none" id="7cu-XX-nn4" customClass="PageViewController" customModule="PageViewContrroller" customModuleProvider="target" sceneMemberID="viewController"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hth-jY-ph3" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-417" y="-565"/>
@@ -76,7 +76,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="zxX-VB-LTU" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="599" y="166"/>
+            <point key="canvasLocation" x="-94" y="143"/>
         </scene>
     </scenes>
 </document>

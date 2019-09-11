@@ -35,6 +35,11 @@ class ViewController: UIViewController {
         pageViewController.delegate = self
         pageViewController.dataSource = self
         
+       let control = UIPageControl.appearance()
+        control.currentPageIndicatorTintColor = .black
+        control.pageIndicatorTintColor = .lightGray
+      //  UIPageControl.appearance().
+        
         addChild(pageViewController)
         pageViewController.didMove(toParent: self)
         
